@@ -1,3 +1,4 @@
+/*
 /* =====================
    VIDEO YOUTUBE ID
 ===================== */
@@ -199,7 +200,7 @@ function animateHearts() {
         }
     });
     requestAnimationFrame(animateHearts);
-
+*/
 
 }
 
